@@ -2,6 +2,8 @@
 
 No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
+However, testcases and documentations are must-to-dos.
+
 ## Getting Started
 
 Start by not writing any code.
